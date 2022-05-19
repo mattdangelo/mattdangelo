@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**Astradus/Astradus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Building a software platform for the liquid workforce
+- 🌱 Learning frontevent development with react.js
+- 💬 Ask me about statistics, systems programming, algebra, calculus
+- 💭 The generation of random numbers is too important to be left to chance
 
-Here are some ideas to get you started:
+## My Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=astradus&show_icons=true&theme=nord&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=astradus&theme=nord&hide_border=true" />
+  </a>
+</p>
+<br>
