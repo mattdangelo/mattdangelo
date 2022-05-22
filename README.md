@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 🔭 Building a software platform for the liquid workforce
+- 🔭 Backend Developer. Building a software platform for the liquid workforce
 - 🌱 Learning frontevent development with react.js
 - 💬 Ask me about statistics, systems programming, algebra, calculus
 - 💭 The generation of random numbers is too important to be left to chance
