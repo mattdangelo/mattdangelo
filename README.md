@@ -2,7 +2,7 @@
 
 - 🔭 Backend Developer. Building a software platform for the liquid workforce
 - 🌱 Learning frontevent development with react.js
-- 💬 Ask me about statistics, systems programming, linear algebra
+- 💬 Ask me about calc, systems programming, linear algebra
 
 <br/>
 <p align="left">
