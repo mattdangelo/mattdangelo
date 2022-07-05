@@ -1,7 +1,7 @@
 ### Hola 👋
 
 - 🔭 Backend Developer. Building a software platform for the liquid workforce
-- 🌱 Learning frontevent development with react.js
+- 🌱 Learning frontevent development with react
 - 💬 Ask me about calc, systems programming, linear algebra
 
 <br/>
