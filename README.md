@@ -1,8 +1,8 @@
 ### Hola 👋
 
-- 🔭 Backend Developer. Building software in the tech startup space
+- 🔭 Backend developer building software in the tech startup space
 - 🌱 Learning frontevent development with react
-- 💬 Ask me about calculus, systems programming, OpenCV
+- 💬 Ask me about lomography, systems programming, OpenCV
 
 <br/>
 <p align="left">
