@@ -5,6 +5,6 @@
 - 💬 Ask me about lomography, systems programming, C / C++
 
 <br/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=astradus&theme=nord&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mattdangelo&theme=nord&hide_border=true" />
 </p>
 <br>
